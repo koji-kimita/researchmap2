@@ -1,4 +1,4 @@
-from course_allocation_game_resolver.players.player import Player
+from player import Player
 
 class Student(Player):
 

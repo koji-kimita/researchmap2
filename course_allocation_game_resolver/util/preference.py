@@ -1,7 +1,6 @@
 import logging
 from typing import List
-from course_allocation_game_resolver.players import Player
-
+from course_allocation_game_resolver.players.player import Player
 
 class Preference:
     """

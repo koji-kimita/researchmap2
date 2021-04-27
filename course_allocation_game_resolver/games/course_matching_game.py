@@ -1,4 +1,4 @@
-from course_allocation_game_resolver.games.game import Game
+from game import Game
 
 class Course_matching_game(Game):
 

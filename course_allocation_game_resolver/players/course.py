@@ -1,4 +1,4 @@
-from course_matching_game_resolver.players.player import Player
+from player import Player
 
 class Course(Player):
 
